@@ -1,0 +1,344 @@
+{
+	"phoenixcoin-bitcoin": {
+		"start": "phoenixcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"alphacoin-bitcoin": {
+		"start": "alphacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"betacoin-bitcoin": {
+		"start": "betacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"anoncoin-litecoin": {
+		"start": "anoncoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"cinnicoin-bitcoin": {
+		"start": "cinnicoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"globalcoin-bitcoin": {
+		"start": "globalcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"galaxycoin-bitcoin": {
+		"start": "galaxycoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"redcoin-litecoin": {
+		"start": "redcoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"grandcoin-bitcoin": {
+		"start": "grandcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"tagcoin-bitcoin": {
+		"start": "tagcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"phoenixcoin-litecoin": {
+		"start": "phoenixcoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"franko-litecoin": {
+		"start": "franko",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"litecoin-bitcoin": {
+		"start": "litecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"zetacoin-bitcoin": {
+		"start": "zetacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"americancoin-bitcoin": {
+		"start": "americancoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"dogecoin-bitcoin": {
+		"start": "dogecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"worldcoin-bitcoin": {
+		"start": "worldcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"darkcoin-bitcoin": {
+		"start": "darkcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"novacoin-bitcoin": {
+		"start": "novacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"cosmoscoin-bitcoin": {
+		"start": "cosmoscoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"anoncoin-bitcoin": {
+		"start": "anoncoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"colossuscoin-litecoin": {
+		"start": "colossuscoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"cryptogenicbullion-bitcoin": {
+		"start": "cryptogenicbullion",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"feathercoin-bitcoin": {
+		"start": "feathercoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"krugercoin-bitcoin": {
+		"start": "krugercoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"bbqcoin-bitcoin": {
+		"start": "bbqcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"primecoin-litecoin": {
+		"start": "primecoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"infinitecoin-litecoin": {
+		"start": "infinitecoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"netcoin-bitcoin": {
+		"start": "netcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"nibble-bitcoin": {
+		"start": "nibble",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"orbitcoin-bitcoin": {
+		"start": "orbitcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"primecoin-bitcoin": {
+		"start": "primecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"digitalcoin-bitcoin": {
+		"start": "digitalcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"unobtanium-bitcoin": {
+		"start": "unobtanium",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"diamond-bitcoin": {
+		"start": "diamond",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"peercoin-bitcoin": {
+		"start": "peercoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"whitecoin-bitcoin": {
+		"start": "whitecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"infinitecoin-bitcoin": {
+		"start": "infinitecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"bitgem-bitcoin": {
+		"start": "bitgem",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"xencoin-litecoin": {
+		"start": "xencoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"nanotoken-bitcoin": {
+		"start": "nanotoken",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"noirbits-bitcoin": {
+		"start": "noirbits",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"stablecoin-litecoin": {
+		"start": "stablecoin",
+		"end": "litecoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"stablecoin-bitcoin": {
+		"start": "stablecoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"blackcoin-bitcoin": {
+		"start": "blackcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"auroracoin-bitcoin": {
+		"start": "auroracoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"argentum-bitcoin": {
+		"start": "argentum",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"craftcoin-bitcoin": {
+		"start": "craftcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"maxcoin-bitcoin": {
+		"start": "maxcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"terracoin-bitcoin": {
+		"start": "terracoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"franko-bitcoin": {
+		"start": "franko",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"elacoin-bitcoin": {
+		"start": "elacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"ezcoin-bitcoin": {
+		"start": "ezcoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"spots-bitcoin": {
+		"start": "spots",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"emerald-bitcoin": {
+		"start": "emerald",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"megacoin-bitcoin": {
+		"start": "megacoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	},
+	"casinocoin-bitcoin": {
+		"start": "casinocoin",
+		"end": "bitcoin",
+		"exchanges": ["coinse",
+		"cryptsy"]
+	}
+}

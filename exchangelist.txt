@@ -1,0 +1,109 @@
+﻿blockchaininfo:
+    enabled: true
+    domain: 'blockchain.info'
+    https: true
+    urlpaths: ['/ticker']
+    jsonpaths: ['{THING_TO}.15m']
+    coinlist: ['btc']
+    fiatlist: ['usd','cny','jpy','sgd','hkd','cad','aud','nzd','gbp','dkk','sek','brl','chf','eur','rub','sll','pln','thb']
+    uppercase: true
+
+vircurex:
+    enabled: true
+    domain: 'api.vircurex.com'
+    https: true
+    urlpaths: ['/api/get_highest_bid.json?base={THING_FROM}&alt={THING_TO}', '/api/get_lowest_ask.json?base={THING_FROM}&alt={THING_TO}']
+    jsonpaths: ['value']
+    coinlist: ['anc','btc','dgc','dvc','frc','ftc','i0c','ixc','ltc','nmc','nvc','ppc','trc','xpm']
+    fiatlist: ['usd','eur']
+    uppercase: true
+
+btce:
+    enabled: true
+    domain: 'btc-e.com'
+    https: true
+    urlpaths: ['/api/2/{THING_FROM}_{THING_TO}/ticker']
+    jsonpaths: ['ticker.avg']
+    coinlist: ['btc','ltc','nmc','nvc','trc','ppc','ftc','xpm']
+    fiatlist: ['usd','eur','rur']
+    uppercase: false
+
+bitstamp:
+    enabled: true
+    domain: 'www.bitstamp.net'
+    https: true
+    urlpaths: ['/api/ticker/']
+    jsonpaths: ['ask']
+    coinlist: ['btc']
+    fiatlist: ['usd']
+    uppercase: false
+
+mtgox:
+    enabled: false
+    domain: 'data.mtgox.com'
+    https: true
+    urlpaths: ['/api/2/{THING_FROM}{THING_TO}/money/ticker_fast']
+    jsonpaths: ['data.buy.value']
+    coinlist: ['btc']
+    fiatlist: ['usd','eur','jpy','gbp','rub']
+    uppercase: true
+
+campbx:
+    enabled: true
+    domain: 'campbx.com'
+    https: true
+    urlpaths: ['/api/xticker.php']
+    jsonpaths: ['Last Trade']
+    coinlist: ['btc']
+    fiatlist: ['usd']
+    uppercase: false
+
+cryptsy:
+    enabled: true
+    domain: 'pubapi.cryptsy.com'
+    https: false
+    urlpaths: ['/api.php?method=marketdatav2']
+    jsonpaths: ['return.markets.{THING_FROM}/{THING_TO}.lasttradeprice']
+    coinlist: ['btc','alf','amc','anc','arg','bqc','bte','btg','buk','cap','cgb','clr','cmc','crc','csc','dgc','dmd','elc','emd','frc','frk','fst','ftc','gdc','glc','glx','hbn','ixc','kgc','lk7','lky','ltc','mec','mnc','nbl','nec','nmc','nrb','nvc,',phs','ppc','pts','pxc','pyc','qrk','sbc','spt','src','tag','tek','trc','wdc','xjo','xpm','yac','zet']
+    fiatlist: []
+    uppercase: true
+
+bter:
+    enabled: true
+    domain: 'bter.com'
+    https: true
+    urlpaths: ['/api/1/ticker/{THING_FROM}_{THING_TO}']
+    jsonpaths: ['avg']
+    coinlist: ['btc','ltc','ppc','frc','ftc','cnc','bqc','btb','wdc','yac','xpm','pts','zcc','dtc','red','cent','zet','src','mec','qrk']
+    fiatlist: ['cny']
+    uppercase: false
+
+cryptotrade:
+    enabled: true
+    domain: 'crypto-trade.com'
+    https: true
+    urlpaths: ['/api/1/ticker/{THING_FROM}_{THING_TO}']
+    jsonpaths: ['data.min_ask', 'data.max_bid']
+    coinlist: ['btc','ltc','nmc','xpm','ppc','trc','ftc','dvc','wdc','dgc']
+    fiatlist: ['usd','eur']
+    uppercase: false
+
+coinse:
+    enabled: true
+    domain: 'www.coins-e.com'
+    https: true
+    urlpaths: ['/api/v2/markets/data/']
+    jsonpaths: ['markets.{THING_FROM}_{THING_TO}.marketstat.24h.avg_rate']
+    coinlist: ['btc','alp','amc','anc','bet','bqc','cgb','cin','crc','dem','dtc','elc','elp','emd','frk','ftc','gdc','glc','kgc','ltc','mec','nan','net','nrb','nvc','orb','ppc','pts','qrk','rec','red','spt','tag','trc','uno','wdc','xnc','xpm','zet']
+    fiatlist: []
+    uppercase: true
+
+cryptocoincharts:
+    enabled: true
+    domain: 'cryptocoincharts.info'
+    https: false
+    urlpaths: ['/v2/api/tradingPair/{THING_FROM}_{THING_TO}']
+    jsonpaths: ['price']
+    coinlist: ['btc','ltc','ppc','nmc','xmp','mec','bqc','dgc','ifc','ixc','mnc','qrk','sbc','zet','doge','nxt','msc','ftc','nvc','dvc','frc','trc']
+    fiatlist: ['usd','eur']
+    uppercase: false

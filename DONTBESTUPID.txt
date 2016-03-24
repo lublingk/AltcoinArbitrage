@@ -1,0 +1,3 @@
+Steps to ensure no money loss:
+Step 1: Check to be sure that coin is not under maintenence(check both exchange and wallet page for coinse)
+Step 2: Generate Valid Addresses before purchasing, on both exchanges

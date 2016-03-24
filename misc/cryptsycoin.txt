@@ -1,0 +1,872 @@
+"Coins": {
+	"42coin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "42coin",
+		"withdrawal_fee": "0.00"
+	},
+	"alphacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "alphacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"americancoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "americancoin",
+		"withdrawal_fee": "0.00"
+	},
+	"androidstokensv2": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "androidstokensv2",
+		"withdrawal_fee": "0.00"
+	},
+	"anoncoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "anoncoin",
+		"withdrawal_fee": "0.00"
+	},
+	"argentum": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "argentum",
+		"withdrawal_fee": "0.00"
+	},
+	"asiccoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "asiccoin",
+		"withdrawal_fee": "0.00"
+	},
+	"auroracoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "auroracoin",
+		"withdrawal_fee": "0.00"
+	},
+	"batcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "batcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"battlecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "battlecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"bbqcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bbqcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"benjamins": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "benjamins",
+		"withdrawal_fee": "0.00"
+	},
+	"betacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "betacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"bitbar": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bitbar",
+		"withdrawal_fee": "0.00"
+	},
+	"bitcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bitcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"bitgem": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bitgem",
+		"withdrawal_fee": "0.00"
+	},
+	"bitshares pts": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bitshares pts",
+		"withdrawal_fee": "0.00"
+	},
+	"blackcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "blackcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"bottlecaps": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bottlecaps",
+		"withdrawal_fee": "0.00"
+	},
+	"bytecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "bytecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"cachecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cachecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"cashcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cashcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"casinocoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "casinocoin",
+		"withdrawal_fee": "0.00"
+	},
+	"catcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "catcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"chncoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "chncoin",
+		"withdrawal_fee": "0.00"
+	},
+	"cinnicoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cinnicoin",
+		"withdrawal_fee": "0.00"
+	},
+	"colossuscoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "colossuscoin",
+		"withdrawal_fee": "0.00"
+	},
+	"communitycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "communitycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"continuumcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "continuumcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"copperbars": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "copperbars",
+		"withdrawal_fee": "0.00"
+	},
+	"copperlark": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "copperlark",
+		"withdrawal_fee": "0.00"
+	},
+	"cosmoscoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cosmoscoin",
+		"withdrawal_fee": "0.00"
+	},
+	"craftcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "craftcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"cryptobuck": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cryptobuck",
+		"withdrawal_fee": "0.00"
+	},
+	"cryptogenicbullion": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cryptogenicbullion",
+		"withdrawal_fee": "0.00"
+	},
+	"cryptsypoints": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "cryptsypoints",
+		"withdrawal_fee": "0.00"
+	},
+	"damacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "damacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"darkcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "darkcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"devcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "devcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"diamond": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "diamond",
+		"withdrawal_fee": "0.00"
+	},
+	"digibyte": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "digibyte",
+		"withdrawal_fee": "0.00"
+	},
+	"digitalcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "digitalcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"dogecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "dogecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"doubloons": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "doubloons",
+		"withdrawal_fee": "0.00"
+	},
+	"earthcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "earthcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"einsteinium": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "einsteinium",
+		"withdrawal_fee": "0.00"
+	},
+	"elacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "elacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"elephantcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "elephantcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"emark": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "emark",
+		"withdrawal_fee": "0.00"
+	},
+	"emerald": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "emerald",
+		"withdrawal_fee": "0.00"
+	},
+	"execoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "execoin",
+		"withdrawal_fee": "0.00"
+	},
+	"ezcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "ezcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"fastcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "fastcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"feathercoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "feathercoin",
+		"withdrawal_fee": "0.00"
+	},
+	"fedoracoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "fedoracoin",
+		"withdrawal_fee": "0.00"
+	},
+	"fireflycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "fireflycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"flappycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "flappycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"florincoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "florincoin",
+		"withdrawal_fee": "0.00"
+	},
+	"fluttercoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "fluttercoin",
+		"withdrawal_fee": "0.00"
+	},
+	"franko": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "franko",
+		"withdrawal_fee": "0.00"
+	},
+	"freicoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "freicoin",
+		"withdrawal_fee": "0.00"
+	},
+	"galaxycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "galaxycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"gamecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "gamecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"globalcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "globalcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"goldcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "goldcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"grandcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "grandcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"heavycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "heavycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"hobonickels": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "hobonickels",
+		"withdrawal_fee": "0.00"
+	},
+	"infinitecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "infinitecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"ixcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "ixcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"joulecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "joulecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"junkcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "junkcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"karmacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "karmacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"kittehcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "kittehcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"klondikecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "klondikecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"krugercoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "krugercoin",
+		"withdrawal_fee": "0.00"
+	},
+	"leafcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "leafcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"litebar": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "litebar",
+		"withdrawal_fee": "0.00"
+	},
+	"litecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "litecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"lottocoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "lottocoin",
+		"withdrawal_fee": "0.00"
+	},
+	"lucky7coin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "lucky7coin",
+		"withdrawal_fee": "0.00"
+	},
+	"luckycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "luckycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"lycancoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "lycancoin",
+		"withdrawal_fee": "0.00"
+	},
+	"mastercoin (hydro)": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mastercoin (hydro)",
+		"withdrawal_fee": "0.00"
+	},
+	"maxcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "maxcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"mazacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mazacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"megacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "megacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"memecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "memecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"mincoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mincoin",
+		"withdrawal_fee": "0.00"
+	},
+	"mining contract 1": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mining contract 1",
+		"withdrawal_fee": "0.00"
+	},
+	"mining contract 2": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mining contract 2",
+		"withdrawal_fee": "0.00"
+	},
+	"mintcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mintcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"mooncoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "mooncoin",
+		"withdrawal_fee": "0.00"
+	},
+	"murraycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "murraycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"myriadcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "myriadcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"namecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "namecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"nanotoken": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "nanotoken",
+		"withdrawal_fee": "0.00"
+	},
+	"neocoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "neocoin",
+		"withdrawal_fee": "0.00"
+	},
+	"netcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "netcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"nibble": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "nibble",
+		"withdrawal_fee": "0.00"
+	},
+	"noirbits": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "noirbits",
+		"withdrawal_fee": "0.00"
+	},
+	"novacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "novacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"nxt": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "nxt",
+		"withdrawal_fee": "0.00"
+	},
+	"nyancoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "nyancoin",
+		"withdrawal_fee": "0.00"
+	},
+	"opensourcecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "opensourcecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"orbitcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "orbitcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"paycoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "paycoin",
+		"withdrawal_fee": "0.00"
+	},
+	"peercoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "peercoin",
+		"withdrawal_fee": "0.00"
+	},
+	"philosopherstone": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "philosopherstone",
+		"withdrawal_fee": "0.00"
+	},
+	"phoenixcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "phoenixcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"potcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "potcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"primecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "primecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"quark": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "quark",
+		"withdrawal_fee": "0.00"
+	},
+	"rabbitcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "rabbitcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"redcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "redcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"reddcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "reddcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"ronpaulcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "ronpaulcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"royalcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "royalcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"saturncoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "saturncoin",
+		"withdrawal_fee": "0.00"
+	},
+	"securecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "securecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"sexcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "sexcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"smartcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "smartcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"spaincoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "spaincoin",
+		"withdrawal_fee": "0.00"
+	},
+	"spots": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "spots",
+		"withdrawal_fee": "0.00"
+	},
+	"stablecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "stablecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"starcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "starcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"tagcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "tagcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"takcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "takcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"tekcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "tekcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"terracoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "terracoin",
+		"withdrawal_fee": "0.00"
+	},
+	"tickets": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "tickets",
+		"withdrawal_fee": "0.00"
+	},
+	"tigercoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "tigercoin",
+		"withdrawal_fee": "0.00"
+	},
+	"ultracoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "ultracoin",
+		"withdrawal_fee": "0.00"
+	},
+	"unobtanium": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "unobtanium",
+		"withdrawal_fee": "0.00"
+	},
+	"usde": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "usde",
+		"withdrawal_fee": "0.00"
+	},
+	"vertcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "vertcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"whitecoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "whitecoin",
+		"withdrawal_fee": "0.00"
+	},
+	"worldcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "worldcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"xencoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "xencoin",
+		"withdrawal_fee": "0.00"
+	},
+	"yacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "yacoin",
+		"withdrawal_fee": "0.00"
+	},
+	"ybcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "ybcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"zccoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "zccoin",
+		"withdrawal_fee": "0.00"
+	},
+	"zedcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "zedcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"zeitcoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "zeitcoin",
+		"withdrawal_fee": "0.00"
+	},
+	"zetacoin": {
+		"buy_trade_fee_percent": "0.20",
+		"sell_trade_fee_percent": "0.30",
+		"coinid": "zetacoin",
+		"withdrawal_fee": "0.00"
+	}
+}
